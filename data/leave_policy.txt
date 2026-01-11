@@ -1,0 +1,3 @@
+Employees can take 20 days of annual leave.
+Interns are eligible for only 5 days of leave.
+Leaves must be approved by manager.
